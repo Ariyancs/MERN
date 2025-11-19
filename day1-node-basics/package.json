@@ -1,0 +1,13 @@
+{
+  "name": "day1-node-basics",
+  "version": "1.0.0",
+  "description": "Node.js fundamentals project (Day 1)",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
